@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyVersion>1.1.65534.0</AssemblyVersion>
+	<!--<GenerateAssemblyInfo>False</GenerateAssemblyInfo>-->
+	<!--<Deterministic>False</Deterministic>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.20.0" />
+  </ItemGroup>
+
+</Project>
